@@ -1,1 +1,2 @@
 hahahahhahahahahahaha
+public class A{}
